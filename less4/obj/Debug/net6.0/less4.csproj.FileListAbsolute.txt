@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\bin\Debug\net6.0\less4.exe
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\bin\Debug\net6.0\less4.deps.json
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\bin\Debug\net6.0\less4.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\bin\Debug\net6.0\less4.dll
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\bin\Debug\net6.0\less4.pdb
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.dll
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\refint\less4.dll
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.pdb
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\less4.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\знакомство с языками\семинар\урок 2\less4\obj\Debug\net6.0\ref\less4.dll
