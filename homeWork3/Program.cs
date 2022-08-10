@@ -7,20 +7,39 @@
 
 int number = Convert.ToInt32(Console.ReadLine());
 
+// void findWeekend (int number3){
+//     if (number3 <= 7){
+//         if (number3 > 5){
+//             Console.WriteLine("да");
+//         }
+//         else {
+//             Console.WriteLine("нет");
+// }
+// }
 
-void findsnumber (int number3){
-    if (number3 <= 7){
-        if (number3 > 5){
-            Console.WriteLine("да");
-        }
+//     else{
+//         Console.WriteLine("Введите число от 1 до 7");
+// }
+// }
+
+// findsnumber(number);
+
+bool findWeekend(int nums){
+    if ((nums <= 7) == true){
+       if ((nums > 5) == true){
+           Console.WriteLine("да");
+           return true;
+       }
         else {
-            Console.WriteLine("нет");
-}
+                Console.WriteLine("нет");
+                return false; 
+        }
+       }
+       
+       else{
+                Console.WriteLine("Введите число от 1 до 7");
+                return false;
+    }
 }
 
-    else{
-        Console.WriteLine("Введите число от 1 до 7");
-}
-}
-
-findsnumber(number);
+findWeekend(number);
