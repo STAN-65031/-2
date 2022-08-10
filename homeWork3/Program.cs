@@ -22,7 +22,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 // }
 // }
 
-// findsnumber(number);
+// findWeekend(number);
 
 bool findWeekend(int nums){
     if ((nums <= 7) == true){
